@@ -1,6 +1,16 @@
 
 # Universidad de Guadalajara
-![Logo de la Universidad de Guadalajara](http://www.cusur.udg.mx/es/sites/default/files/adjuntos/logo_udeg_color_horizontal_1.png)
+<p>
+  <a href="http://www.cucei.udg.mx/">
+    <img alt="Documentation" src="https://img.shields.io/badge/UDG_-CUCEI-green" target="_blank" />
+  </a>
+  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing/graphs/commit-activity">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
+  </a>
+  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
+  </a>
+</p>
 
 ## Centro Universitario de Ciencias Exactas e Ingenierías
 
@@ -20,3 +30,8 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | --- | --- | --- |
 | `01` | Sistemas Tolerantes a Fallos - Conceptos | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/1_concepts) |
 | `02` | Reporte de Herramientas para el Manejo de Errores en Programación | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/2_tool_handling) |
+
+
+---
+
+![Logo de la Universidad de Guadalajara](http://www.cusur.udg.mx/es/sites/default/files/adjuntos/logo_udeg_color_horizontal_1.png)
