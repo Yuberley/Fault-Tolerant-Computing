@@ -1,13 +1,13 @@
 
 # Universidad de Guadalajara
 <p>
-  <a href="http://www.cucei.udg.mx/">
-    <img alt="Documentation" src="https://img.shields.io/badge/UDG_-CUCEI-green" target="_blank" />
+  <a href="http://www.cucei.udg.mx/" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/UDG_-CUCEI-blue" target="_blank" />
   </a>
-  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
+  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Construcci%C3%B3n-Si-green" target="_blank" />
   </a>
-  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/LICENSE">
+  <a href="https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
