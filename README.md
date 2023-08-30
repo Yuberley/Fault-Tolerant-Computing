@@ -16,6 +16,12 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 ---
 
 
+| Número | Actividad | Visualizar |
+| --- | --- | --- |
+| `01` | Sistemas Tolerantes a Fallos - Conceptos | [Visitar](https://midu-react-01.surge.sh) |
+| `02` | Reporte de Herramientas para el Manejo de Errores en Programación | [Visitar](https://midu-react-02.surge.sh) |
+
+
 ## Sistemas Tolerantes a Fallos
 
 ### ¿Qué son?
