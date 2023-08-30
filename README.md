@@ -1,4 +1,4 @@
-# Programación Tolerante a Fallos
+# Programación Tolerante a Fallos 🚀
 <p>
   <a href="http://www.cucei.udg.mx/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/UDG_-CUCEI-blue" target="_blank" />
