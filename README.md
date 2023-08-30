@@ -1,5 +1,4 @@
-
-# Universidad de Guadalajara
+# Programación Tolerante a Fallos
 <p>
   <a href="http://www.cucei.udg.mx/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/UDG_-CUCEI-blue" target="_blank" />
@@ -11,10 +10,6 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
-
-## Centro Universitario de Ciencias Exactas e Ingenierías
-
-## Programación Tolerante a Fallos
 
 ¡Bienvenido al repositorio del apuntes del curso de Programación Tolerante a Fallos en el Centro Universitario de Ciencias Exactas e Ingenierías de la Universidad de Guadalajara!
 
@@ -33,5 +28,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 
 
 ---
+# Universidad de Guadalajara
+## Centro Universitario de Ciencias Exactas e Ingenierías
 
 ![Logo de la Universidad de Guadalajara](http://www.cusur.udg.mx/es/sites/default/files/adjuntos/logo_udeg_color_horizontal_1.png)
