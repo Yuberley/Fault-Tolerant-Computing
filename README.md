@@ -25,6 +25,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | --- | --- | --- |
 | `01` | Sistemas Tolerantes a Fallos - Conceptos | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/1_concepts) |
 | `02` | Reporte de Herramientas para el Manejo de Errores en Programación | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/2_tool_handling) |
+| `03` | Application checkpointing | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/3_checkpointing) |
 
 
 ---
