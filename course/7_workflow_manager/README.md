@@ -63,8 +63,8 @@ pip install -r requirements.txt
 
    El programa comenzará a obtener los precios de ETH en tiempo real, los almacenará en la base de datos y trazará un gráfico en tiempo real. Puede ajustar la programación `cron` en la tarea `ETH_info` para controlar la frecuencia de actualización de los datos.
 
-![Prefecto del panel de control](https://lh3.googleusercontent.com/u/2/drive-viewer/AK7aPaDluZWm453udOh_S7_xD38OcSVvM9iksppu88vXR_JO28GRC1-WathlR2tS9toVpmPHOwi06JCNJnWfV9FGJ-lc_rHD=w1848-h976)
-![Registros y visualización de gráficos](https://lh3.googleusercontent.com/u/2/drive-viewer/AK7aPaCmwTs4ptktjMDQW2tLz5cDf2dKRwYqJRqv-iBzoLpDKo3RqtFCCJcl5wH5MN7ftL8M0jxeTOG257QuWg0oxafr_BTX=w1848-h976)
+![Prefect del panel de control](https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/course/7_workflow_manager/img/1.png)
+![Registros y visualización de gráficos](https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/course/7_workflow_manager/img/2.png)
 
 
 6. **Cierre de ventanas de gráficos

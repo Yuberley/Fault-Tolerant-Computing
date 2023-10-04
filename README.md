@@ -29,6 +29,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | `04` | Aumento de la excelencia del software mediante el análisis y la evitación de defectos | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/4_software_excellence_augmentation_through_defect_analysis_and_avoidance) |
 | `05` | Orthogonal Defect Classification (ODC) | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/5_orthogonal_defect_classification) |
 | `06` | Parallelism | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/6_parallelism) |
+| `07` | Workflow Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/7_workflow_manager) |
 
 
 ---
