@@ -39,11 +39,11 @@ Abre una nueva ventana de terminal para el cliente. Navega al mismo directorio y
 
 Una vez conectado el cliente, se te pedirá que introduzcas tu nombre. Después, podrás empezar a enviar mensajes. Escribe un mensaje y pulsa Intro para enviarlo. Otros clientes conectados al servidor recibirán tus mensajes, y tú también verás sus mensajes en tu terminal.
 
-Lado del servidor](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-wRLeOAVUAq19fX1KjQAYgo0veiiXmgtrWBufqSoDIhyYZaU1blxgoWZJlFjy2Wp6730ahgIlGwny7mNR7F7JznTCm9Bg=w1920-h937)
+![Lado del servidor](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-wRLeOAVUAq19fX1KjQAYgo0veiiXmgtrWBufqSoDIhyYZaU1blxgoWZJlFjy2Wp6730ahgIlGwny7mNR7F7JznTCm9Bg=w1920-h937)
 
-Cliente número uno](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-wNotdquhggyVL1m_pzNBSjzp4olXfOcftRZCJCukHhcjaWgPSf8SFKMnZIP77cRZ_HIleWe6qGck6qtTnRQvNAc-fOSg=w1920-h937)
+![Cliente número uno](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-wNotdquhggyVL1m_pzNBSjzp4olXfOcftRZCJCukHhcjaWgPSf8SFKMnZIP77cRZ_HIleWe6qGck6qtTnRQvNAc-fOSg=w1920-h937)
 
-Cliente número dos](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-xVCheUaq3m3gM3icusvz2MKg0b1V1L2iwDcjlXe8efoXetavdK-xZPr5liIzne66UFYPUBXubtzQm8GCBCAG0xVTLP=w1920-h937)
+![Cliente número dos](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-xVCheUaq3m3gM3icusvz2MKg0b1V1L2iwDcjlXe8efoXetavdK-xZPr5liIzne66UFYPUBXubtzQm8GCBCAG0xVTLP=w1920-h937)
 
 ![Cliente número tres](https://lh3.googleusercontent.com/u/3/drive-viewer/AITFw-yl_6D_7lfl16EuuVPB9DFmlHiM37ELigj6EiafsJKbi6ou6yn14f1qAPr3QhYwtVP5ALwRim-eabo2g161Vv_OijFV=w1920-h937)
 
