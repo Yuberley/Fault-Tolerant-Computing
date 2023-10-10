@@ -62,12 +62,12 @@ El servidor en Node.js consulta en una pagina de venta de telefonos moviles una 
     
 ![Imagen](https://github.com/Yuberley/Fault-Tolerant-Computing/blob/main/course/8_services_manager/img/1.png)
     
-    Se llenan los campos de la siguiente manera:
-    - Path: Indica el path del intérprete de python. En mi caso: C:\Python38\python.exe
+Se llenan los campos de la siguiente manera:
+   - Path: Indica el path del intérprete de python. En mi caso: C:\Python38\python.exe
 
-    - Startup directory: Indica el directorio en el que se encuentra proclocker.py: C:\custom-services
+   - Startup directory: Indica el directorio en el que se encuentra proclocker.py: C:\custom-services
 
-    - Arguments: Por ejemplo, si quieres que el servicio intercepte a Chrome y Firefox: proclocker.py chrome.exe firefox.exe. Como en el campo Startup directory hemos indicado el directorio en el que se encuentra el script proclocker.py no es necesario pasar el path absoluto del script como primer argumento, y en su lugar he indicado el path relativo: proclocker.py.
+   - Arguments: Por ejemplo, si quieres que el servicio intercepte a Chrome y Firefox: proclocker.py chrome.exe firefox.exe. Como en el campo Startup directory hemos indicado el directorio en el que se encuentra el script proclocker.py no es necesario pasar el path absoluto del script como primer argumento, y en su lugar he indicado el path relativo: proclocker.py.
     
     * Una vez instalado el servicio debes iniciarlo desde la consola:
 
