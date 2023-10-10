@@ -30,6 +30,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | `05` | Orthogonal Defect Classification (ODC) | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/5_orthogonal_defect_classification) |
 | `06` | Parallelism | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/6_parallelism) |
 | `07` | Workflow Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/7_workflow_manager) |
+| `08` | Services System Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/8_services_manager) |
 
 
 ---
