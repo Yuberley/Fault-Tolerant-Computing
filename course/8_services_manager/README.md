@@ -69,7 +69,7 @@ Se llenan los campos de la siguiente manera:
 
    - Arguments: Por ejemplo, si quieres que el servicio intercepte a Chrome y Firefox: proclocker.py chrome.exe firefox.exe. Como en el campo Startup directory hemos indicado el directorio en el que se encuentra el script proclocker.py no es necesario pasar el path absoluto del script como primer argumento, y en su lugar he indicado el path relativo: proclocker.py.
     
-    * Una vez instalado el servicio debes iniciarlo desde la consola:
+* Una vez instalado el servicio debes iniciarlo desde la consola:
 
       ```bash
         nssm.exe start service_clevercel
