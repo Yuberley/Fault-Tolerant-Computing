@@ -2,6 +2,16 @@ Vamos a abordar tu solicitud en dos partes: primero, generaremos un reporte que 
 
 ### 1. Comparación y Aplicaciones de Docker, Kubernetes, Apache Mesos, OpenShift, Rancher e Istio
 
+<div align="center">
+    <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" width="90" height="auto">
+<img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="150" height="auto">
+<img src="https://seeklogo.com/images/I/istio-logo-92FF583709-seeklogo.com.png" width="120" height="120">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" width="90" height="auto">
+<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Rancher.component.complex-narrative-xl.ts=1698082243515.png/content/adobe-cms/mx/es/products/instana/supported-technologies/rancher-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="130" height="auto">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Apache_Mesos_Logo.svg/1200px-Apache_Mesos_Logo.svg.png" width="150" height="auto">
+</div>
+
 #### Docker
 - **Descripción**: Docker es una plataforma de contenedores que permite empaquetar aplicaciones y sus dependencias en un contenedor virtual, facilitando así la portabilidad y la consistencia en diferentes entornos de ejecución.
 - **Aplicaciones**: Ideal para el desarrollo de aplicaciones, pruebas, y despliegue en producción, especialmente en entornos donde la consistencia y la portabilidad son clave.
@@ -28,40 +38,36 @@ Vamos a abordar tu solicitud en dos partes: primero, generaremos un reporte que 
 
 ### 2. Ejemplo Práctico con Apache Mesos, OpenShift o Rancher
 
-Voy a buscar un tutorial práctico utilizando Apache Mesos, OpenShift o Rancher y te proporcionaré una descripción del ejemplo junto con las referencias adecuadas. Dame un momento para realizar esta búsqueda.
-
-He encontrado información detallada sobre cómo utilizar Apache Mesos y Rancher para desplegar y gestionar aplicaciones en un entorno de clúster. Te presento un resumen de cómo implementar Apache Mesos, seguido de un ejemplo práctico utilizando Rancher para desplegar Mesos.
-
 ### Implementación de Apache Mesos
 
 #### Visión General
-- **Apache Mesos** es una plataforma que facilita el uso compartido efectivo de recursos entre aplicaciones en un clúster. Proporciona una vista abstracta de todos los recursos del clúster a las aplicaciones【23†fuente】.
+- **Apache Mesos** es una plataforma que facilita el uso compartido efectivo de recursos entre aplicaciones en un clúster. Proporciona una vista abstracta de todos los recursos del clúster a las aplicaciones.
 
 #### Componentes Principales
-1. **Mesos Master**: Almacena el estado actual de los recursos en el clúster y actúa como un orquestador entre agentes y aplicaciones【23†fuente】.
-2. **Mesos Agents**: Cada agente en el clúster informa sus recursos al maestro y recibe tareas programadas por las aplicaciones【23†fuente】.
-3. **Mesos Frameworks**: Permiten a las aplicaciones implementar un componente abstracto que interactúa con el Master para recibir recursos disponibles y tomar decisiones de programación【23†fuente】.
+1. **Mesos Master**: Almacena el estado actual de los recursos en el clúster y actúa como un orquestador entre agentes y aplicaciones.
+2. **Mesos Agents**: Cada agente en el clúster informa sus recursos al maestro y recibe tareas programadas por las aplicaciones.
+3. **Mesos Frameworks**: Permiten a las aplicaciones implementar un componente abstracto que interactúa con el Master para recibir recursos disponibles y tomar decisiones de programación.
 
 #### Gestión de Recursos
-- **Ofertas de Recursos**: Los agentes publican información sobre recursos al maestro, que a su vez ofrece estos recursos a los frameworks en ejecución【23†fuente】.
-- **Roles de Recursos**: Soporta múltiples usuarios en el mismo clúster, conocidos como roles, permitiendo a los frameworks suscribirse a estos roles y controlar los recursos【23†fuente】.
-- **Reservas de Recursos**: Permite la asignación de recursos a través de reservas estáticas y dinámicas【23†fuente】.
+- **Ofertas de Recursos**: Los agentes publican información sobre recursos al maestro, que a su vez ofrece estos recursos a los frameworks en ejecución.
+- **Roles de Recursos**: Soporta múltiples usuarios en el mismo clúster, conocidos como roles, permitiendo a los frameworks suscribirse a estos roles y controlar los recursos.
+- **Reservas de Recursos**: Permite la asignación de recursos a través de reservas estáticas y dinámicas.
 
 #### Implementación de Framework
-- Implementación de un **Scheduler** y un **Executor** en Java para gestionar tareas y comunicarse con el maestro【23†fuente】.
+- Implementación de un **Scheduler** y un **Executor** en Java para gestionar tareas y comunicarse con el maestro.
 
 ### Ejemplo Práctico con Rancher para Desplegar Mesos
 
 #### Creando un Entorno Mesos en Rancher
-1. **Creación de un Nuevo Entorno**: En Rancher, crea un nuevo entorno seleccionando una plantilla de entorno que tenga Mesos como orquestación【17†fuente】.
-2. **Añadiendo Hosts**: Después de crear el entorno, agrega al menos tres hosts para que los servicios de infraestructura y Mesos comiencen a desplegarse【17†fuente】.
+1. **Creación de un Nuevo Entorno**: En Rancher, crea un nuevo entorno seleccionando una plantilla de entorno que tenga Mesos como orquestación.
+2. **Añadiendo Hosts**: Después de crear el entorno, agrega al menos tres hosts para que los servicios de infraestructura y Mesos comiencen a desplegarse.
 
 #### Uso de Mesos
-- **Interfaz de Usuario de Mesos**: Administra Mesos y sus frameworks a través de la interfaz de usuario de Mesos o utilizando el catálogo de Rancher【17†fuente】.
-- **Catálogo de Rancher**: Soporta un catálogo de frameworks de Mesos, permitiéndote lanzar y gestionar aplicaciones fácilmente【17†fuente】.
+- **Interfaz de Usuario de Mesos**: Administra Mesos y sus frameworks a través de la interfaz de usuario de Mesos o utilizando el catálogo de Rancher.
+- **Catálogo de Rancher**: Soporta un catálogo de frameworks de Mesos, permitiéndote lanzar y gestionar aplicaciones fácilmente.
 
 #### Consideraciones Importantes
-- Actualmente, Rancher no soporta cambiar entre entornos que ya tienen servicios en ejecución【17†fuente】.
-- Solo los administradores de Rancher o los propietarios del entorno pueden ver los servicios de infraestructura【17†fuente】.
+- Actualmente, Rancher no soporta cambiar entre entornos que ya tienen servicios en ejecución.
+- Solo los administradores de Rancher o los propietarios del entorno pueden ver los servicios de infraestructura.
 
 Este ejemplo demuestra cómo Rancher puede ser utilizado para desplegar y gestionar un entorno Apache Mesos, facilitando la orquestación y gestión de aplicaciones en un clúster.
