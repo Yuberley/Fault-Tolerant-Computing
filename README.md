@@ -31,6 +31,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | `06` | Parallelism | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/6_parallelism) |
 | `07` | Workflow Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/7_workflow_manager) |
 | `08` | Services System Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/8_services_manager) |
+| `09` | Differences between Docker, Kubernetes, Apache Mesos and OpenShift | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/9_devops_applications) |
 
 
 ---
