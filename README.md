@@ -33,6 +33,7 @@ En este curso, exploraremos los conceptos fundamentales de los sistemas tolerant
 | `08` | Services System Manager | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/8_services_manager) |
 | `09` | Kubernetes | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/9_kubernetes) |
 | `10` | Differences between Docker, Kubernetes, Apache Mesos and OpenShift | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/10_devops_applications) |
+| `11` | Istio | [Visitar](https://github.com/Yuberley/Fault-Tolerant-Computing/tree/main/course/11_istio) |
 
 
 ---
